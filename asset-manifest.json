@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ITSA/static/css/main.824ddbcb.css",
+    "main.js": "/ITSA/static/js/main.79bc91d6.js",
+    "static/js/415.fc063c41.chunk.js": "/ITSA/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/ITSA/static/js/787.f6e65957.chunk.js",
+    "static/media/Home.png": "/ITSA/static/media/Home.269c8d916cdafcbdcc6f.png",
+    "static/media/home-bg.jpg": "/ITSA/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "index.html": "/ITSA/index.html",
+    "main.824ddbcb.css.map": "/ITSA/static/css/main.824ddbcb.css.map",
+    "main.79bc91d6.js.map": "/ITSA/static/js/main.79bc91d6.js.map",
+    "415.fc063c41.chunk.js.map": "/ITSA/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/ITSA/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.824ddbcb.css",
+    "static/js/main.79bc91d6.js"
+  ]
+}
